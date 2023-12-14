@@ -1,0 +1,100 @@
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys\car management sys\bin\Debug\car management sys.exe.config
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys\car management sys\bin\Debug\car management sys.exe
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys\car management sys\bin\Debug\car management sys.pdb
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys\car management sys\obj\Debug\car management sys.csproj.AssemblyReference.cache
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys\car management sys\obj\Debug\car_management_sys.Properties.Resources.resources
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys\car management sys\obj\Debug\car management sys.csproj.GenerateResource.cache
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys\car management sys\obj\Debug\car management sys.csproj.CoreCompileInputs.cache
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys\car management sys\obj\Debug\car management sys.exe
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys\car management sys\obj\Debug\car management sys.pdb
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys\car management sys\bin\Debug\System.Data.SQLite.dll
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys\car management sys\bin\Debug\System.Data.SQLite.xml
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys\car management sys\obj\Debug\car management sys.csproj.CopyComplete
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys\car management sys\obj\Debug\car_management_sys.Form1.resources
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys\car management sys\bin\Debug\EntityFramework.dll
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys\car management sys\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys\car management sys\bin\Debug\EntityFramework.xml
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys\car management sys\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys\car management sys\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys\car management sys\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys\car management sys\bin\Debug\Dapper.Contrib.dll
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys\car management sys\bin\Debug\Dapper.dll
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys\car management sys\bin\Debug\Dapper.xml
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys\car management sys\bin\Debug\Dapper.Contrib.xml
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys-PC\car management sys\bin\Debug\car management sys.exe.config
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys-PC\car management sys\bin\Debug\car management sys.exe
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys-PC\car management sys\bin\Debug\car management sys.pdb
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys-PC\car management sys\bin\Debug\Dapper.Contrib.dll
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys-PC\car management sys\bin\Debug\Dapper.dll
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys-PC\car management sys\bin\Debug\EntityFramework.dll
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys-PC\car management sys\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys-PC\car management sys\bin\Debug\System.Data.SQLite.dll
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys-PC\car management sys\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys-PC\car management sys\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys-PC\car management sys\bin\Debug\Dapper.xml
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys-PC\car management sys\bin\Debug\Dapper.Contrib.xml
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys-PC\car management sys\bin\Debug\EntityFramework.xml
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys-PC\car management sys\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys-PC\car management sys\bin\Debug\System.Data.SQLite.xml
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys-PC\car management sys\obj\Debug\car management sys.csproj.AssemblyReference.cache
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys-PC\car management sys\obj\Debug\car_management_sys.Form1.resources
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys-PC\car management sys\obj\Debug\car_management_sys.Properties.Resources.resources
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys-PC\car management sys\obj\Debug\car management sys.csproj.GenerateResource.cache
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys-PC\car management sys\obj\Debug\car management sys.csproj.CoreCompileInputs.cache
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys-PC\car management sys\obj\Debug\car management sys.csproj.CopyComplete
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys-PC\car management sys\obj\Debug\car management sys.exe
+C:\Users\12bsc\OneDrive\Desktop\Devops\car management sys-PC\car management sys\obj\Debug\car management sys.pdb
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\bin\Debug\car management sys.exe.config
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\bin\Debug\car management sys.exe.manifest
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\bin\Debug\car management sys.application
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\bin\Debug\car management sys.exe
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\bin\Debug\car management sys.pdb
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\bin\Debug\Dapper.Contrib.dll
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\bin\Debug\Dapper.dll
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\bin\Debug\EntityFramework.dll
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\bin\Debug\System.Data.SQLite.dll
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\bin\Debug\Dapper.xml
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\bin\Debug\Dapper.Contrib.xml
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\bin\Debug\EntityFramework.xml
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\bin\Debug\System.Data.SQLite.xml
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\obj\Debug\car management sys.csproj.AssemblyReference.cache
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\obj\Debug\car_management_sys.Form1.resources
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\obj\Debug\car_management_sys.Properties.Resources.resources
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\obj\Debug\car management sys.csproj.GenerateResource.cache
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\obj\Debug\car management sys.csproj.CoreCompileInputs.cache
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\obj\Debug\car management sys.exe.manifest
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\obj\Debug\car management sys.application
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\obj\Debug\car management sys.csproj.CopyComplete
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\obj\Debug\car management sys.exe
+C:\Users\12bsc\OneDrive\Desktop\Devops\Car-Management-System\car management sys\obj\Debug\car management sys.pdb
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\bin\Debug\car management sys.exe.config
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\bin\Debug\car management sys.exe.manifest
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\bin\Debug\car management sys.application
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\bin\Debug\car management sys.exe
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\bin\Debug\car management sys.pdb
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\bin\Debug\Dapper.Contrib.dll
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\bin\Debug\Dapper.dll
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\bin\Debug\EntityFramework.dll
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\bin\Debug\System.Data.SQLite.dll
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\bin\Debug\Dapper.xml
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\bin\Debug\Dapper.Contrib.xml
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\bin\Debug\EntityFramework.xml
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\bin\Debug\System.Data.SQLite.xml
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\obj\Debug\car management sys.csproj.AssemblyReference.cache
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\obj\Debug\car_management_sys.Form1.resources
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\obj\Debug\car_management_sys.Properties.Resources.resources
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\obj\Debug\car management sys.csproj.GenerateResource.cache
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\obj\Debug\car management sys.csproj.CoreCompileInputs.cache
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\obj\Debug\car management sys.exe.manifest
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\obj\Debug\car management sys.application
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\obj\Debug\car management sys.csproj.CopyComplete
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\obj\Debug\car management sys.exe
+C:\Users\12bsc\OneDrive - Thomas More\study material\2nd sem\dev ops & sec\devops-projexct\car-management-sys\car management sys\obj\Debug\car management sys.pdb
