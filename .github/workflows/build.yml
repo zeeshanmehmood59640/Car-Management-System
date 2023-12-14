@@ -1,0 +1,29 @@
+name: Build and Publish
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: windows-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4.1.1
+
+    - name: Setup MSBuild
+      uses: microsoft/setup-msbuild@v1.3.1
+
+    - name: Restore NuGet packages
+      run: nuget restore "car management sys.sln"
+
+    - name: Build
+      run: msbuild /p:Configuration=Release "car management sys.sln"
+
+    - name: Publish Artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: car-management-sys
+        path: 'car management sys/bin/Release'
